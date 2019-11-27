@@ -1,0 +1,17 @@
+[
+    {
+        "minHumidity": 60,
+        "minTemperature": 275,
+        "minPressure": 830
+    },
+    {
+        "minHumidity": 65,
+        "minTemperature": 295,
+        "minPressure": 1000
+    },
+    {
+        "minHumidity": 80,
+        "minTemperature": 300,
+        "minPressure": 1010
+    }
+]
